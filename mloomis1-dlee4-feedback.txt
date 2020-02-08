@@ -1,0 +1,21 @@
+========== Grade ==========
+
+Your score is 96 out of 100
+
+======== Feedback ========
+
+Linear Dictionary (-0): Excellent work! Nice job implementing all methods with
+good runtime. Nice commenting.
+
+Hash Functions (-0):
+Good work overall.
+
+Keyword Search (-4)
+Good work overall! Nice organization and commenting.
+- While you are correct to use a priority queue, you should have used
+heapification rather than multiple insert calls. (-4)
+
+Memory Management/coding practice (-0):
+Excellent work with memory. However, you should have more comments (-0)
+
+Grades for student(s): mloomis1-dlee4
